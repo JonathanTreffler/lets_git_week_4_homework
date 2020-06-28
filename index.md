@@ -10,3 +10,6 @@ He lives in a boarding school called Hogwarts.
 * loyal
 * very good at performing magic
 * Likes Muggles
+
+> Are you insane? Of course I want to leave the Dursleys!
+> Have you got a house? When can I move in?
