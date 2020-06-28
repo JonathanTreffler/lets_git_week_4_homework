@@ -13,3 +13,5 @@ He lives in a boarding school called Hogwarts.
 
 > Are you insane? Of course I want to leave the Dursleys!
 > Have you got a house? When can I move in?
+
+<img src="https://upload.wikimedia.org/wikipedia/sco/thumb/4/44/HarryPotter5poster.jpg/225px-HarryPotter5poster.jpg"/>
