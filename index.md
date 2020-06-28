@@ -6,7 +6,7 @@ Harry Potters Parents were killed by VOldemort.
 He lives in a boarding school called Hogwarts.
 
 ## Character Traits
-- very brave
-- loyal
-- very good at performing magic
-- Likes Muggles
+* very brave
+* loyal
+* very good at performing magic
+* Likes Muggles
